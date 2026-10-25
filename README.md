@@ -1,8 +1,8 @@
-# YOUSEF ABUYASEEN
+# hey i'm yousef 🦦
 
-**Creative technologist in London :)**
+i'm a creative technologist currently in London :)
 
-[yousef.studio](https://www.yousef.studio/) · [LinkedIn](https://www.linkedin.com/in/yousefabuyaseen/) · [Spotify](https://open.spotify.com/artist/4rT0OQ5a13Cw4z1fVXRWA3) · [CV](https://www.yousef.studio/Yousef_Abuyaseen_CV.pdf) · [abuyaseenyousef@gmail.com](mailto:abuyaseenyousef@gmail.com)
+[yousef.studio](https://www.yousef.studio/) 
 
 ### Selected work
 
@@ -14,5 +14,3 @@
 | [**workout-tracker**](https://github.com/yousefabuyaseen/workout-tracker) | App · personal workout tracker |
 | [**ideradio**](https://github.com/yousefabuyaseen/ideradio) | Shared playlist tool for my cohort |
 | [**platemate**](https://github.com/yousefabuyaseen/platemate) | Restaurant Recommendation engine · University of Westminster, 2023 |
-
-More at **[yousef.studio](https://www.yousef.studio/)**.
