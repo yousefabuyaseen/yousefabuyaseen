@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| [**finda**](https://github.com/yousefabuyaseen/finda) | Ableton plug-in · a map of your drum library |
-| [**vivienne**](https://github.com/yousefabuyaseen/vivienne) | Browser game · Port Vivienne, 1938 |
-| [**gallery**](https://github.com/yousefabuyaseen/gallery) | App · one square per day |
-| [**workout-tracker**](https://github.com/yousefabuyaseen/workout-tracker) | App · personal training program |
-| [**ideradio**](https://github.com/yousefabuyaseen/ideradio) | Shared class playlist |
-| [**platemate**](https://github.com/yousefabuyaseen/platemate) | Recommendation engine · University of Westminster, 2023 |
+| [**finda**](https://github.com/yousefabuyaseen/finda) | Ableton plug-in · a map of your drum library + a sketch feature |
+| [**vivienne**](https://github.com/yousefabuyaseen/vivienne) | Browser game · ASCII/ANSI Based |
+| [**gallery**](https://github.com/yousefabuyaseen/gallery) | App · a twist on journalling where less is more |
+| [**workout-tracker**](https://github.com/yousefabuyaseen/workout-tracker) | App · personal workout tracker |
+| [**ideradio**](https://github.com/yousefabuyaseen/ideradio) | Shared playlist tool for my cohort |
+| [**platemate**](https://github.com/yousefabuyaseen/platemate) | Restaurant Recommendation engine · University of Westminster, 2023 |
 
 More at **[yousef.studio](https://www.yousef.studio/)**.
